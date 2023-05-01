@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <a href="https://ibrahimnergiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ![HivdaAydogan's github stats](https://github-readme-stats.vercel.app/api?username=HivdaAydogan&show_icons=true&theme=radical)
 
