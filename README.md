@@ -39,11 +39,11 @@ My name is Hivda Aydoğan, I'm a full stack developer and mathematician in Ankar
    
    ### Get in touch with me...
    
-   <a href="https://twitter.com/hivdoli">
-     <img src='https://img.stackshare.io/service/5145/gaj36XL5_400x400.jpg' width="32px" title='hivdaaydogan | Twitter' />
-   </a>
    <a href="https://www.linkedin.com/in/hivdaaydogan/">
      <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' width="32" title='hivdaaydogan | LinkedIn' />
+   </a>
+   <a href="https://twitter.com/hivdoli">
+     <img src='https://img.stackshare.io/service/5145/gaj36XL5_400x400.jpg' width="32px" title='hivdaaydogan | Twitter' />
    </a>
    <a href="https://instagram.com/hivdaydogan">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" title='hivdaaydogan | Instagram' />
