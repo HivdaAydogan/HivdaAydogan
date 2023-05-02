@@ -4,7 +4,6 @@
 
 ![views](https://komarev.com/ghpvc/?username=HivdaAydogan)
 
-My name is Hivda Aydoğan, I'm a full stack developer and mathematician in Ankara.
 
 - 📫 How to reach me: hivdaaydogann@gmail.com
 
