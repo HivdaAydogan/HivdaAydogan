@@ -37,14 +37,18 @@
    
    ### Get in touch with me...
    
+   <p align="left">
    <a href="https://www.linkedin.com/in/hivdaaydogan/">
      <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' width="28" title='hivdaaydogan | LinkedIn' />
    </a>
    <a href="https://instagram.com/hivdaydogan">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" title='hivdaaydogan | Instagram' />
    </a>
+   </p>
+   
 
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HivdaAydogan&show_icons=true&locale=en&layout=compact" alt="HivdaAydogan" /></p>
+   
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HivdaAydogan&show_icons=true&theme=radical&locale=en" alt="HivdaAydogan" /></p>
    
    
