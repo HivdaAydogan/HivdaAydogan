@@ -1,4 +1,4 @@
-### Hi there, I'm Hivda <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Hi there, I'm Hivda <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1>
 <h3 align="center">I am a Software Back-End Developer from Turkey</h3>
 
 ![views](https://komarev.com/ghpvc/?username=HivdaAydogan)
