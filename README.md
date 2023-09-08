@@ -7,7 +7,7 @@
 
 ### What I speak...
 
-<p>
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src='https://img.stackshare.io/service/2538/kEpgHiC9.png' width='32' title='HTML'>
   <img src='https://img.stackshare.io/service/6727/css.png' width='32' title='CSS'>
@@ -16,7 +16,7 @@
   
 ### Tools I'm Using...
   
- <p>
+ <p align="left">
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="spring" width="40" height="40"/> </a>
     <img src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' width='32' title='PostgreSQL'>
     <img src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' width='32' title='MySQL'>
@@ -28,7 +28,7 @@
     
  ### IDEs...
     
-   <p>
+   <p align="left">
       <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
       <img src='https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png' width='32' title='IntelliJ'>
    </p>
@@ -46,7 +46,7 @@
    </a>
    </p>
    
-   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HivdaAydogan&show_icons=true&locale=en&layout=compact" alt="HivdaAydogan" /></p>
+   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HivdaAydogan&layout=compact" alt="HivdaAydogan" /></p>
    
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HivdaAydogan&show_icons=true&theme=radical&locale=en" alt="HivdaAydogan" /></p>
    
