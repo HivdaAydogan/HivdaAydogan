@@ -9,33 +9,34 @@
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src='https://img.stackshare.io/service/2538/kEpgHiC9.png' width='32' title='HTML'>
-  <img src='https://img.stackshare.io/service/6727/css.png' width='32' title='CSS'>
-  <img src='https://img.stackshare.io/service/1209/javascript.jpeg' width='32' title='JavaScript'>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='32' title='HTML'>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='32' title='CSS'>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' width='32' title='TS'>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='32' title='JavaScript'>
 </p>
   
 ### Tools I'm Using...
   
  <p align="left">
-    <img src='https://img.stackshare.io/service/996/unnamed.jpg' width='32' title='Spring'>
-    <img src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' width='32' title='PostgreSQL'>
-    <img src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' width='32' title='MySQL'>
-    <img src='https://img.stackshare.io/service/1032/cassandra_small.png' width='32' title='Cassandra'>
-    <img src='https://img.stackshare.io/service/1030/leaf-360x360.png' width='32' title='MongoDB'>
-    <img src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' width='32' title='Kafka'>
-    <img src='https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg' width='32' title='RabbitMQ'>
-    <img src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' width='32' title='React'>
-    <img src='https://img.stackshare.io/service/5936/nextjs.png' width='32' title='NextJS'>
-    <img src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' width='32' title='Github'>
-    <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="32" title='Matlab'/> </a>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg' width='32' title='Spring'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width='32' title='PostgreSQL'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' width='32' title='MySQL'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg' width='32' title='Cassandra'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' width='32' title='MongoDB'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg' width='32' title='Kafka'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg' width='32' title='RabbitMQ'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width='32' title='React'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg' width='32' title='NextJS'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' width='32' title='Github'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width='32' title='Git'>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="32" title='Matlab'/> </a>
  </p>
     
  ### IDEs...
     
    <p align="left">
-      <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
-      <img src='https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png' width='32' title='IntelliJ'>
+      <img src='https://github.com/vscode-icons.png' width='32' title='Visual Studio Code'>
+      <img src='https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png' width='32' title='IntelliJ'>
    </p>
    
    <hr>
@@ -44,7 +45,7 @@
    
    <p align="left">
    <a href="https://www.linkedin.com/in/hivdaaydogan/">
-     <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' width="28" title='hivdaaydogan | LinkedIn' />
+     <img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width="28" title='hivdaaydogan | LinkedIn' />
    </a>
    <a href="https://instagram.com/hivdaydogan">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" title='hivdaaydogan | Instagram' />
